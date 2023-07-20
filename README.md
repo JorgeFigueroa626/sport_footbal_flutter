@@ -1,16 +1,16 @@
-# sport_football
+# soccer_sport_result
 
 A new Flutter project.
 
-## Getting Started
+# Prerequisites
 
-This project is a starting point for a Flutter application.
+- Get API from [https://www.scorebat.com/](https://www.scorebat.com/)
 
-A few resources to get you started if this is your first Flutter project:
+# Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Resultados screen                               | Detalles screen                           |
+|-------------------------------------------------|-------------------------------------------------|
+| <img src="https://github.com/JorgeFigueroa626/sport_footbal_flutter/blob/main/assets/images/sport_menu.png" height="520"> | <img src="https://github.com/JorgeFigueroa626/sport_footbal_flutter/blob/main/assets/images/sport_details.png" height="520"> |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
